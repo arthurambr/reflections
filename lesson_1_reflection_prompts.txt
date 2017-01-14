@@ -1,0 +1,50 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    It helped me save time doing that and being more efficient.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    I could more easily change my code without fearing losing anything, sometimes takes a time to realize how much a change would actually affect the behavior of a program so I could go back on the change and still be able to use parts of the new version.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    If you have it automatically it might save code without meaning or even too much or to little versions. If you do it manually you can keep track of the logic but on the down side you have to remember to save it.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Because Git was made with code in mind while google docs has a broader scope.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Fill in your answer here
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Fill in your answer here
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Fill in your answer here
+
+
+# Added later http://unix.stackexchange.com/questions/148/colorizing-your-terminal-and-shell-environment!
+nc=="\[\033[0m’ # No Color
+white="\[\033[1;37m\]"
+black="\[\033[0;30m\]"
+light_blue="\[\033[1;34m\]"
+light_green="\[\033[1;32m\]"
+cyan="\[\033[0;36m\]"
+light_cyan="\[\033[1;36m\]"
+red="\[\033[0;31m\]"
+light_red="\[\033[1;31m\]"
+light_purple="\[\033[1;35m\]"
+brown="\[\033[0;33m\]"
+yellow="\[\033[1;33m\]"
+gray="\[\033[0;30m\]"
+light_gray="\[\033[0;37m\]"
